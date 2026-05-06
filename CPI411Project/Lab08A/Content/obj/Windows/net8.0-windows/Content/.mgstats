@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/bunny.PNG","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/bin/Windows/Content/bunny.xnb","TextureProcessor","Texture2DContent",135313,957093,0.1649626
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/filter.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/bin/Windows/Content/filter.xnb","TextureProcessor","Texture2DContent",3506,2133,0.125599
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/Honolulu.JPG","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/bin/Windows/Content/Honolulu.xnb","TextureProcessor","Texture2DContent",116854,5529685,0.1693812
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/ImageProcessing.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab08A/Content/bin/Windows/Content/ImageProcessing.xnb","EffectProcessor","CompiledEffectContent",1191,2010,0.3263927

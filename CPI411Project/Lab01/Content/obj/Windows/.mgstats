@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab01/Content/logo_mg.jpg","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab01/Content/bin/Windows/logo_mg.xnb","TextureProcessor","Texture2DContent",68412,562493,0.1485106
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab01/Content/SimpleColorShader.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab01/Content/bin/Windows/SimpleColorShader.xnb","EffectProcessor","CompiledEffectContent",1059,1121,0.2228705

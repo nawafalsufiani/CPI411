@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/arch_negx.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/arch_negy.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/arch_negz.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/arch_posx.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/arch_posy.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/arch_posz.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Box.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/bunny.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/cube.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/debug_negx.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/debug_negy.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/debug_negz.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/debug_posx.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/debug_posy.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/debug_posz.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/grandcanyon_negx.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/grandcanyon_negy.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/grandcanyon_negz.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/grandcanyon_posx.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/grandcanyon_posy.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/grandcanyon_posz.jpg</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Helicopter.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/HelicopterTexture.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/hills_negx.bmp</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/hills_negy.bmp</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/hills_negz.bmp</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/hills_posx.bmp</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/hills_posy.bmp</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/hills_posz.bmp</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Info.spritefont</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/nvlobby_new_negx.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/nvlobby_new_negy.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/nvlobby_new_negz.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/nvlobby_new_posx.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/nvlobby_new_posy.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/nvlobby_new_posz.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Reflection.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Shader.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Skybox.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Sphere.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Teapot.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/test_negx.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/test_negy.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/test_negz.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/test_posx.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/test_posy.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/test_posz.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment02/Content/Torus.FBX</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

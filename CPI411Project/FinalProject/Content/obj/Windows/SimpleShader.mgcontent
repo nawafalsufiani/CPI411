@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/FinalProject/Content/SimpleShader.fx</SourceFile>
+  <SourceTime>2026-04-21T22:37:04.1358136-07:00</SourceTime>
+  <DestFile>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/FinalProject/Content/bin/Windows/SimpleShader.xnb</DestFile>
+  <DestTime>2026-04-21T23:37:20.5090772-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T03:31:02-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

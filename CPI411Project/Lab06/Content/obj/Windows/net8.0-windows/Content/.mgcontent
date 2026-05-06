@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/cube.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/Helicopter.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/HelicopterTexture.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/Reflection.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/Skybox.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/SunsetPNG1.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/SunsetPNG2.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/SunsetPNG3.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/SunsetPNG4.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/SunsetPNG5.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab06/Content/SunsetPNG6.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

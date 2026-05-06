@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/fire.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/bin/Windows/fire.xnb","TextureProcessor","Texture2DContent",146324,262229,0.1701374
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/font.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1893955
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/ParticleShader.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/bin/Windows/ParticleShader.xnb","EffectProcessor","CompiledEffectContent",1696,2862,0.2299768
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/torus.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab10/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",65056,53687,0.1201672

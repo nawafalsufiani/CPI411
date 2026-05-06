@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab04/Content/font.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab04/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1715134
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab04/Content/SimpleShader.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab04/Content/bin/Windows/Content/SimpleShader.xnb","EffectProcessor","CompiledEffectContent",3684,5215,0.2159001
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab04/Content/Torus.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab04/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",65408,53687,0.0840178

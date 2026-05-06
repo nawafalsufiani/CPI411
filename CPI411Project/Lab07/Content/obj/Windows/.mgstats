@@ -1,0 +1,15 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/art.PNG","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/art.xnb","TextureProcessor","Texture2DContent",14851,262229,0.1559588
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/BumpMap.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/BumpMap.xnb","EffectProcessor","CompiledEffectContent",4148,3988,0.368822
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/BumpTest.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/BumpTest.xnb","TextureProcessor","Texture2DContent",632916,1048661,0.0480031
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bunny.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254675,0.3978526
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/crossHatch.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/crossHatch.xnb","TextureProcessor","Texture2DContent",276085,1048661,0.0457161
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/font.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1141127
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/monkey.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/monkey.xnb","TextureProcessor","Texture2DContent",32389,262229,0.0122075
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/nm.dds","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/nm.xnb","TextureProcessor","TextureCubeContent",393344,393319,0.0244274
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/Plane.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",20768,1655,0.2020893
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/Plane(1).FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/Plane(1).xnb","ModelProcessor","ModelContent",20768,2287,0.1174106
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/round.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/round.xnb","TextureProcessor","Texture2DContent",265825,1048661,0.0463202
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/saint.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/saint.xnb","TextureProcessor","Texture2DContent",64372,262229,0.0271465
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/science.PNG","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/science.xnb","TextureProcessor","Texture2DContent",18386,262229,0.0147626
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/square.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab07/Content/bin/Windows/square.xnb","TextureProcessor","Texture2DContent",66866,1048661,0.0446651

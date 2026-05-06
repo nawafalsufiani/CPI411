@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/ChangeImageColorPractice/Content/effect.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/ChangeImageColorPractice/Content/bin/Windows/effect.xnb","EffectProcessor","CompiledEffectContent",672,690,0.496035
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/ChangeImageColorPractice/Content/font.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/ChangeImageColorPractice/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.183994
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/ChangeImageColorPractice/Content/robot.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/ChangeImageColorPractice/Content/bin/Windows/robot.xnb","TextureProcessor","Texture2DContent",30652,1692565,0.115211

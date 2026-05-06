@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/Box.fbx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/fire.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/font.spritefont</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/ParticleShader.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/Plane.FBX</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/SimpleShader.fx</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/smoke.png</File>
+    <File>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment04/Content/water.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

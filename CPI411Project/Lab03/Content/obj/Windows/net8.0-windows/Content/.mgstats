@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/bunny.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/bin/Windows/Content/bunny.xnb","ModelProcessor","ModelContent",2733392,1254675,0.418387
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/Diffuse.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/bin/Windows/Content/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1127,2070,0.3424101
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/font.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/bin/Windows/Content/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.1740493
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/Torus.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/bin/Windows/Content/Torus.xnb","ModelProcessor","ModelContent",25616,14519,0.1764162

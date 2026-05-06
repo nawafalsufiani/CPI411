@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/Diffuse.fx</SourceFile>
+  <SourceTime>2026-01-29T13:06:35.9766659-07:00</SourceTime>
+  <DestFile>C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab03/Content/bin/Windows/Diffuse.xnb</DestFile>
+  <DestTime>2026-04-14T12:12:08.8122216-07:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <ImporterTime>2025-06-02T03:31:02-07:00</ImporterTime>
+  <Processor>EffectProcessor</Processor>
+  <ProcessorTime>2025-06-02T03:31:02-07:00</ProcessorTime>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

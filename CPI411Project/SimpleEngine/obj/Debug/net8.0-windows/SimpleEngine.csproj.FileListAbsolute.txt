@@ -1,0 +1,13 @@
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\bin\Debug\net8.0-windows\SimpleEngine.deps.json
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\bin\Debug\net8.0-windows\SimpleEngine.dll
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\bin\Debug\net8.0-windows\SimpleEngine.pdb
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\mgcb.tool.restore
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.csproj.AssemblyReference.cache
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.AssemblyInfoInputs.cache
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.AssemblyInfo.cs
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.csproj.CoreCompileInputs.cache
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.dll
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\refint\SimpleEngine.dll
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\SimpleEngine.pdb
+C:\Users\nawaf\OneDrive\Desktop\CPI411Project\SimpleEngine\obj\Debug\net8.0-windows\ref\SimpleEngine.dll

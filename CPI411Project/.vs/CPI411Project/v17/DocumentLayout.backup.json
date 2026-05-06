@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|c:\\users\\nawaf\\onedrive\\desktop\\cpi411project\\finalproject\\content\\comicshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\content\\comicshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|c:\\users\\nawaf\\onedrive\\desktop\\cpi411project\\finalproject\\finalproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|c:\\users\\nawaf\\onedrive\\desktop\\cpi411project\\finalproject\\content\\simpleshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\content\\simpleshader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|c:\\users\\nawaf\\onedrive\\desktop\\cpi411project\\finalproject\\content\\depthbuffershader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\content\\depthbuffershader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|c:\\users\\nawaf\\onedrive\\desktop\\cpi411project\\finalproject\\content\\normalbuffershader.fx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D6207FB3-1360-440A-A47D-4F12CFDA06E5}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\content\\normalbuffershader.fx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepthBufferShader.fx",
+              "DocumentMoniker": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\DepthBufferShader.fx",
+              "RelativeDocumentMoniker": "FinalProject\\Content\\DepthBufferShader.fx",
+              "ToolTip": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\DepthBufferShader.fx",
+              "RelativeToolTip": "FinalProject\\Content\\DepthBufferShader.fx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-28T05:48:01.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NormalBufferShader.fx",
+              "DocumentMoniker": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\NormalBufferShader.fx",
+              "RelativeDocumentMoniker": "FinalProject\\Content\\NormalBufferShader.fx",
+              "ToolTip": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\NormalBufferShader.fx",
+              "RelativeToolTip": "FinalProject\\Content\\NormalBufferShader.fx",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-24T04:33:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FinalProject.cs",
+              "DocumentMoniker": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\FinalProject.cs",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.cs",
+              "ToolTip": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\FinalProject.cs",
+              "RelativeToolTip": "FinalProject\\FinalProject.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAAAJ0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T04:32:34.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimpleShader.fx",
+              "DocumentMoniker": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\SimpleShader.fx",
+              "RelativeDocumentMoniker": "FinalProject\\Content\\SimpleShader.fx",
+              "ToolTip": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\SimpleShader.fx",
+              "RelativeToolTip": "FinalProject\\Content\\SimpleShader.fx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T19:31:10.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComicShader.fx",
+              "DocumentMoniker": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\ComicShader.fx",
+              "RelativeDocumentMoniker": "FinalProject\\Content\\ComicShader.fx",
+              "ToolTip": "C:\\Users\\nawaf\\OneDrive\\Desktop\\CPI411Project\\FinalProject\\Content\\ComicShader.fx",
+              "RelativeToolTip": "FinalProject\\Content\\ComicShader.fx",
+              "ViewState": "AgIAAK8AAAAAAAAAAAArwMMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T19:10:48.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

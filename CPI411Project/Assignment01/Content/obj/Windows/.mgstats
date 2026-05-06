@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/Box.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/Box.xnb","ModelProcessor","ModelContent",15056,1499,0.2127531
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bunny.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254675,0.2342718
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/Demo.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/Demo.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21529,0.104706
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/SimpleShader.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/SimpleShader.xnb","EffectProcessor","CompiledEffectContent",8996,12205,0.3458939
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/Sphere.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/Sphere.xnb","ModelProcessor","ModelContent",32592,24313,0.0086898
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/Teapot.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/Teapot.xnb","ModelProcessor","ModelContent",96832,97689,0.0221938
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/Torus.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Assignment01/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",25616,14519,0.0082083

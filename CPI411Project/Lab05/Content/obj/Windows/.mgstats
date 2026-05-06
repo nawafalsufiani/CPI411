@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/cube.fbx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/cube.xnb","ModelProcessor","ModelContent",16784,905,0.2127366
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/Skybox.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/Skybox.xnb","EffectProcessor","CompiledEffectContent",1126,1689,0.4626304
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/SunsetPNG1.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/SunsetPNG1.xnb","TextureProcessor","Texture2DContent",268460,1048661,0.073283
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/SunsetPNG2.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/SunsetPNG2.xnb","TextureProcessor","Texture2DContent",266493,1048661,0.0311665
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/SunsetPNG3.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/SunsetPNG3.xnb","TextureProcessor","Texture2DContent",90567,1048661,0.0232463
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/SunsetPNG4.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/SunsetPNG4.xnb","TextureProcessor","Texture2DContent",244734,1048661,0.0360578
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/SunsetPNG5.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/SunsetPNG5.xnb","TextureProcessor","Texture2DContent",257410,1048661,0.0393211
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/SunsetPNG6.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab05/Content/bin/Windows/SunsetPNG6.xnb","TextureProcessor","Texture2DContent",267828,1048661,0.0433986

@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/Checker.png","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/bin/Windows/Checker.xnb","TextureProcessor","Texture2DContent",2833,4181,0.1423308
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/Plane.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/bin/Windows/Plane.xnb","ModelProcessor","ModelContent",18112,1655,0.1074796
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/ShadowShader.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/bin/Windows/ShadowShader.xnb","EffectProcessor","CompiledEffectContent",3467,4466,0.3498691
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/ShadowShader1.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/bin/Windows/ShadowShader1.xnb","EffectProcessor","CompiledEffectContent",3493,4597,0.421279
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/torus.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Lab09/Content/bin/Windows/torus.xnb","ModelProcessor","ModelContent",65056,53687,0.0212308

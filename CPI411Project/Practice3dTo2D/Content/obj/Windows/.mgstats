@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/bunny.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/bin/Windows/bunny.xnb","ModelProcessor","ModelContent",2733392,1254675,0.4723791
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/Diffuse.fx","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/bin/Windows/Diffuse.xnb","EffectProcessor","CompiledEffectContent",1127,2070,0.2963254
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/font.spritefont","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21529,0.0922254
+"C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/Torus.FBX","C:/Users/nawaf/OneDrive/Desktop/CPI411Project/Practice3dTo2D/Content/bin/Windows/Torus.xnb","ModelProcessor","ModelContent",25616,14519,0.0095338
